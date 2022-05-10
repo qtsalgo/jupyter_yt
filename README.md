@@ -1,2 +1,6 @@
 # jupyter_yt
-Varius notebooks supporting the youtube chanel
+Varius beginner notebooks supporting the youtube chanel. 
+
+https://bit.ly/3vXVrwf
+
+
