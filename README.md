@@ -1,4 +1,4 @@
 # jupyter_yt
-- various jupyter nbotebooks for specifi taks , supporting matririal for the python micro videos on our youtube chanel. https://bit.ly/3ysz8kc
+- various jupyter notebooks for supporting the python micro videos on our youtube chanel. https://bit.ly/3ysz8kc
 
 
